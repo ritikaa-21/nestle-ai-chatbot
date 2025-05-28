@@ -1,0 +1,2971 @@
+[
+  {
+    "category": "Chocolate & Treats",
+    "brands": [
+      {
+        "brandName": "Aero",
+        "brandUrl": "https://www.madewithnestle.ca/aero",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/aero_milk_42_g.png?itok=C66vPXI6",
+        "products": [
+          {
+            "highlight": "Limited Time",
+            "url": "https://www.madewithnestle.ca/aero/aero-smores-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/aero-smores-bar.png?itok=wk8bziKj",
+            "title": "AERO S'Mores bars",
+            "size": "42 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/aero/aero-scoops-vanilla-bean",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/aero-scoops-vanilla-bean.png?itok=JmuqgSkd",
+            "title": "AERO Scoops Vanilla Bean",
+            "size": "105 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/aero/aero-scoops-double-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/aero-scoops-double-chocolate_0.png?itok=mOjuwid0",
+            "title": "AERO Scoops Double Chocolate",
+            "size": "105 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/aero/aero-scoops-choco-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/aero-scoops-choco-strw-header.png?itok=QyBbc-XF",
+            "title": "AERO Scoops Choco Strawberry",
+            "size": "105 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-truffle-salted-caramel",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/aero-salted-caramel.png?itok=PNl5AzMZ",
+            "title": "Aero Truffle Salted Caramel",
+            "size": "105 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/nestle-aero-truffle-brownie-105-g-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-11/AERO-TRUFFLE-Brownie-105g-Bar_0.jpg?itok=PHEC84wR",
+            "title": "NESTLÉ AERO TRUFFLE Brownie 105 g Bar",
+            "size": "105 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/aero/aero-pep-8ct-jrs-24-8x73-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-12/AERO-Pep-8ct-Jrs-product.jpg?itok=Nd1gY7zM",
+            "title": "AERO Pep 8ct Jrs 24 8x7.3 g",
+            "size": "8 x 7.3 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/aero-hide-me-eggs-100g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/aero-hide-me-eggs.png?itok=RBQS--jJ",
+            "title": "AERO Hide Me Eggs 100g",
+            "size": "100 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/aero-valentines-minis-30-pack-219-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/AERO-Valentines-Milk-Chocolates-30-pack-Carton-219g.jpg?itok=kotRN0L4",
+            "title": "AERO Valentine's Minis 30-pack, 219 g",
+            "size": "219 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/aero-easter-chocolate-lamb-5-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/aero-easter-chocolate-lamb-5-pack.jpg?itok=9CJtpBzL",
+            "title": "AERO Easter Chocolate Lamb 5-pack",
+            "size": "125 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/nestle-aero-novelty-bunny-94g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/nestle-aero-novelty-bunny-94g.jpg?itok=l5UM9pK2",
+            "title": "NESTLÉ AERO Novelty Bunny 94g",
+            "size": "94 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-halloween-25ct-carton",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/aero-halloween-25ct-carton.png?itok=1PjXj7LQ",
+            "title": "AERO Halloween 25ct Carton",
+            "size": "182 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/hide-me-eggs-pouch_0.png?itok=ukNOseZL",
+            "title": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+            "size": "500 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-truffle-tiramisu-milk-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_tiramisu.png?itok=wqBSlthP",
+            "title": "AERO Tiramisu Milk Chocolate Bar",
+            "size": "105 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-truffle-chocolate-mousse-milk-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_mousse.png?itok=rapeaUyU",
+            "title": "AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar",
+            "size": "105 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-minis-98g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/aero-hide-me-eggs-100g.jpg?itok=of7wc8Hb",
+            "title": "AERO Milk Chocolate Minis 98g",
+            "size": "98 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-minis-pouch-800-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_minis_valuepack.png?itok=NB3wujRj",
+            "title": "AERO Milk Chocolate Minis Pouch (800 g)",
+            "size": "800 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-minis",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_nhl.png?itok=6ugVQVuF",
+            "title": "AERO Milk Chocolate Minis",
+            "size": "135 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-peppermint-milk-chocolate-minis",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_mint_minis.png?itok=5UNe7wBX",
+            "title": "AERO Peppermint Milk Chocolate Minis",
+            "size": "135 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-dark-milk-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_dark_milk.png?itok=g0tYYI0s",
+            "title": "AERO Dark & Milk Chocolate Bar",
+            "size": "42 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-bubble-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_milk_42_g.png?itok=eLNsZUiz",
+            "title": "NESTLÉ® AERO® Milk Chocolate Bar 42g",
+            "size": "42 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-white-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/AERO-White-Milk-Chocolate-Bar.jpg?itok=H8YpjD3-",
+            "title": "AERO White Bar",
+            "size": "42 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-peppermint-milk-chocolate-bubble-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_peppermint_41_g.png?itok=cXxZnUfv",
+            "title": "AERO Mint - Peppermint Milk Chocolate Bubble Bar",
+            "size": "41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-peppermint-share-size-milk-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/aero-peppermint-mega.png?itok=_nStqR5k",
+            "title": "AERO Peppermint Share-Size Milk Chocolate Bar",
+            "size": "63 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-3-piece-share-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/aero-milk-mega-bar.png?itok=v8JPSOOQ",
+            "title": "AERO Milk Chocolate 3-Piece Share Pack",
+            "size": "63 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-big-bubble-bar-97g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/aero-milk-bubble-bar.png?itok=LOLVrnHC",
+            "title": "AERO Milk Chocolate Big Bubble Bar (97 g)",
+            "size": "97 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-peppermint-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_peppermint.png?itok=8ZDtNj3d",
+            "title": "AERO Peppermint Chocolate Bar",
+            "size": "95 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/aero/aero-snack-size-milk-chocolate-peanut-free",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-12/AERO-Pep-8ct-Jrs-brown-product.jpg?itok=8vaki5Bd",
+            "title": "AERO Snack Size, Milk Chocolate, Peanut-free",
+            "size": "8 x 7.3 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/nestle-mini-bars-pack.png?itok=tUR-mzkQ",
+            "title": "Assorted Minis Carton 25 pack",
+            "size": "237 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/kitkat-mini-bars-50-count.png?itok=ilm4ZfbD",
+            "title": "Assorted Minis Carton 50 pack",
+            "size": "485 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/00059800750196_A1C1_44327499_07.02.2024.png?itok=J02bQuLK",
+            "title": "Assorted Minis Carton 100 pack",
+            "size": "977g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-milk-chocolate-4-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_4pk_new.png?itok=HFBAoKXw",
+            "title": "AERO Milk Chocolate Bar 4-pack",
+            "size": "4 x 42 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-06/assorted-minis-130g.png?itok=iJkN30yT",
+            "title": "NESTLÉ Assorted Minis Carton pack",
+            "size": "1.3 kg"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/aero/aero-peppermint-multipack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/aero_peppermint_4_pack.png?itok=QyaYfkvx",
+            "title": "AERO Peppermint Bar 4-pack",
+            "size": "4 x 41 g"
+          }
+        ]
+      },
+      {
+        "brandName": "COFFEE CRISP",
+        "brandUrl": "https://www.madewithnestle.ca/coffee-crisp",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/coffee_crisp_50g_1.png?itok=bxj5-T4g",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-mega-cold-brew",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-crisp-mega.png?itok=XQgRB8pq",
+            "title": "Coffee Crisp MEGA Cold Brew",
+            "size": "70 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-easter-hide-me-chocolate-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-crisp-hide-me-eggs.png?itok=ZDR2kbci",
+            "title": "COFFEE CRISP Easter Hide Me Chocolate Eggs",
+            "size": "150 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-share-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/coffee_crisp_king.png?itok=VO3c_8gj",
+            "title": "COFFEE CRISP Share Pack",
+            "size": "75 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-double-double-wafer-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/coffee_crisp_dd.png?itok=wPZ8Rhrw",
+            "title": "COFFEE CRISP Double Double Wafer Bar",
+            "size": "50 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-double-double-king",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-02/Coffee%20Crisp%20Double%20Double%20King%20FOP.jpg?itok=baccX49Q",
+            "title": "COFFEE CRISP Double Double King",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-crisp-frozen-dessert-bars_0_0.png?itok=s4sx_IRI",
+            "title": "COFFEE CRISP Frozen Dessert Bars",
+            "size": "5 x 80 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-50-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/coffeecrisp_50g_2018.png?itok=q9cvZpyF",
+            "title": "COFFEE CRISP (50g)",
+            "size": "50 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-pops-carton-70g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-02/Coffee%20Crisp%20Pops%2070g_FOP.jpg?itok=SCuLClju",
+            "title": "COFFEE CRISP POPS™ Carton 70g",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-pops-pouch-170g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-02/Coffee%20Crisp%20Pop_FOP.jpg?itok=FLYSCuuu",
+            "title": "COFFEE CRISP POPS™ Pouch 170g",
+            "size": "170g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-minis-classic",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/coffee-crisp-large-pack-image.png?itok=4ptTrnct",
+            "title": "COFFEE CRISP® Minis Classic",
+            "size": "800 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-minis-double-double-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/coffee%2520crisp.jpg?itok=OblcteCn",
+            "title": "COFFEE CRISP Minis Double Double Pouch",
+            "size": "180 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/nestle-assorted-hide-me-eggs.png?itok=CIb-Ks1d",
+            "title": "Assorted Hide Me Eggs",
+            "size": "300 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/hide-me-eggs-pouch_0.png?itok=ukNOseZL",
+            "title": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+            "size": "500 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-4-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/coffeecrisp_4pk_2018.jpg?itok=TBJM3sbg",
+            "title": "COFFEE CRISP 4-Pack",
+            "size": "4 x 50 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-juniors-treat-size",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/coffee-crisp-bar.png?itok=6Mzm515l",
+            "title": "COFFEE CRISP Juniors Treat Size",
+            "size": "9x11 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-mini-wafer-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/Multi-Pack-Mini-Wafer-Bars.png?itok=70sCjimU",
+            "title": "COFFEE CRISP Mini Wafer Bars",
+            "size": "10 x 12g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-halloween-25ct-box",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/coffee-crisp-mini-bars.png?itok=7Pc2ZuDY",
+            "title": "Coffee Crisp Snack Size 25ct Box",
+            "size": "275 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/nestle-mini-bars-pack.png?itok=tUR-mzkQ",
+            "title": "Assorted Minis Carton 25 pack",
+            "size": "237 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/kitkat-mini-bars-50-count.png?itok=ilm4ZfbD",
+            "title": "Assorted Minis Carton 50 pack",
+            "size": "485 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/00059800750196_A1C1_44327499_07.02.2024.png?itok=J02bQuLK",
+            "title": "Assorted Minis Carton 100 pack",
+            "size": "977g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-06/assorted-minis-130g.png?itok=iJkN30yT",
+            "title": "NESTLÉ Assorted Minis Carton pack",
+            "size": "1.3 kg"
+          }
+        ]
+      },
+      {
+        "brandName": "Drumstick bites",
+        "brandUrl": "https://www.madewithnestle.ca/drumstick-bites",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-02/drumstick-bites-milk-front.png?itok=bIhArqzc",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/drumstick-bites/drumstick-bites-milk-chocolatey-cones",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/drumstick-bites-milk-front.png?itok=QC0nTdVi",
+            "title": "Drumstick Bites Milk Chocolatey cones",
+            "size": "76 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/drumstick-bites/drumstick-bites-dark-chocolatey-cones",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/drumstick-bites-dark-front.png?itok=KKhdUKL_",
+            "title": "Drumstick Bites Dark Chocolatey cones",
+            "size": "76g"
+          }
+        ]
+      },
+      {
+        "brandName": "Kit Kat",
+        "brandUrl": "https://www.madewithnestle.ca/kit-kat",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestle_categoty_choctreats-01-kitkat.png?itok=6vBqOCB_",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-tablet-salted-caramel",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-salt-caramel-tablet.png?itok=mjEYloEp",
+            "title": "KITKAT Tablet Salted Caramel",
+            "size": "99 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-tablet-hazelnut",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-hazelnut-tablet.png?itok=rVS5En_B",
+            "title": "KITKAT Tablet Hazelnut",
+            "size": "99 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-classic-tablet",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-classic-tablet.png?itok=-jHX3jno",
+            "title": "KITKAT Classic Tablet",
+            "size": "99 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-chunky-peanut-butter-mega-size",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/KITKAT-CHUNKY-King-header.png?itok=h_CV9Uv9",
+            "title": "KITKAT CHUNKY Peanut Butter, Mega Size",
+            "size": "68 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-nhl-chocolate-hockey-stick",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/kit-kat-hockey-stick.png?itok=gABhMQ_-",
+            "title": "KITKAT NHL Chocolate Hockey Stick",
+            "size": "141 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-mega",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kitkat-4F-mega.png?itok=LskBRJKH",
+            "title": "KitKat MEGA",
+            "size": "73 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-chunky-extreme-choc-wafer-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/kitkat-extreme-choc-bar.png?itok=XJX6DwgY",
+            "title": "KITKAT Chunky Extreme Choc, Wafer Bar",
+            "size": "42 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-chunky-rolo-wafer-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/kitkat-chunky-rolo.png?itok=QvCptJis",
+            "title": "KITKAT Chunky Rolo, Wafer Bar",
+            "size": "42 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-chunky-drumstick",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/KIT-KAT-CHUNKY-Drumstick.jpg?itok=lbhld82q",
+            "title": "KIT KAT CHUNKY Drumstick",
+            "size": null
+          },
+          {
+            "highlight": "Improved",
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-chunky-milk-chocolate-wafer-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/kitkat-chunky-win.jpg?itok=LVq_2XtV",
+            "title": "KIT KAT CHUNKY Milk Chocolate Wafer Bar",
+            "size": "49 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kit-kat/nestle-kitkat-chocolate-easter-bunny-gift-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-bunny-eggs.png?itok=gWSTdvPe",
+            "title": "NESTLÉ KITKAT Chocolate Easter Bunny Gift Pack",
+            "size": "139 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/nestle-assorted-hide-me-eggs.png?itok=CIb-Ks1d",
+            "title": "Assorted Hide Me Eggs",
+            "size": "300 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-aero-minis",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/kitkat-pops-header.jpg?itok=b_CubiGF",
+            "title": "KITKAT POPS WITH AERO MINIS",
+            "size": "140g​"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/hide-me-eggs-pouch_0.png?itok=ukNOseZL",
+            "title": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+            "size": "500 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-easter-break-chocolate-and-wafer-bunnies-12-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK-EasterBunny-132g-Pouch.png?itok=cGkUREoF",
+            "title": "Kit Kat Easter Break Chocolate and Wafer Bunnies 12 Pack",
+            "size": "132 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-milk-chocolate-easter-bunny",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-02/bunnyeasterchocolate85g_1.gif?itok=gYv6P1Bu",
+            "title": "Kit Kat Milk Chocolate Easter Bunny",
+            "size": "85 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/kitkat-easter-break-bunny",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK-EasterBunny-5x29g.png?itok=6qTCGGFo",
+            "title": "KITKAT Mini Easter Chocolate Bunny 5-pack",
+            "size": "145 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-easter-break-bunny",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK-EasterBunny-29g-Wrapper.png?itok=yKVklrLN",
+            "title": "KITKAT Easter Break Bunny",
+            "size": "29 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-smarties",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK%20POPS%20Smarties.jpg?itok=TO-HJx51",
+            "title": "KITKAT Pops with SMARTIES",
+            "size": "160g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-4-x-45-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/kitkat_4x45g.png?itok=uL26R3R6",
+            "title": "KIT KAT",
+            "size": "4 x 45 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kitkat/kit-kat-chunky",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/kitkat_chunky_4bar.png?itok=Kg_LdrFr",
+            "title": "KIT KAT Chunky",
+            "size": "4 x 49 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-4-finger-wafer-bar-milk-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/kitkat-4-finger-wafer-bar.png?itok=pKpqnibg",
+            "title": "KITKAT  4-Finger Wafer Bar, Milk Chocolate",
+            "size": "45 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-hazelnut",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/Kitkat%20Hazelnut.jpg?itok=ElnJGol_",
+            "title": "KITKAT Hazelnut",
+            "size": "41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-snacks-pouch-170-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/kitkat-pops-snacks-pouch-170-g_0.jpg?itok=r4GBq1AV",
+            "title": "KITKAT POPS™ Snacks Pouch 170 g",
+            "size": "170 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-milk-chocolaty-snacks-carton-70-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/kitkat-pops-milk-chocolaty-snacks-carton-70-g.jpg?itok=KIAsU5fG",
+            "title": "KITKAT POPS Milk Chocolaty Snacks Carton 70 g",
+            "size": "70 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kitkat-valentine-30-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/Valentine-Minis-Milk-Chocolate-new-header.png?itok=-pTAS_az",
+            "title": "KITKAT  Valentine Minis, Milk Chocolate, Peanut-free",
+            "size": "354 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-lovers-minis-individually-wrapped",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/KITKAT-lovers-assorted-minis.png?itok=x1-qqaTk",
+            "title": "KITKAT Lovers Assorted Minis",
+            "size": "300 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kitkat/kitkat-chunky-minis",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/kitkat_chunky_mini_160g.png?itok=7PaD6Zgb",
+            "title": "KITKAT Chunky Minis",
+            "size": "160 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-minis-pantry-size-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/kitkat_minis_800g.png?itok=Him0eqB2",
+            "title": "KIT KAT Minis Pantry Size Pouch",
+            "size": "800 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-single-bars-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/kitkat-single-bars-frozen.png?itok=87PxCSBx",
+            "title": "KitKat Single Bars, Frozen Dessert",
+            "size": "80 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-ice-cream-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-frozen-bars_0.png?itok=3Yvqh5lQ",
+            "title": "KIT KAT Ice-cream Bars",
+            "size": "20x80ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/nestle-mini-bars-pack.png?itok=tUR-mzkQ",
+            "title": "Assorted Minis Carton 25 pack",
+            "size": "237 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/kitkat-mini-bars-50-count.png?itok=ilm4ZfbD",
+            "title": "Assorted Minis Carton 50 pack",
+            "size": "485 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/00059800750196_A1C1_44327499_07.02.2024.png?itok=J02bQuLK",
+            "title": "Assorted Minis Carton 100 pack",
+            "size": "977g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-06/assorted-minis-130g.png?itok=iJkN30yT",
+            "title": "NESTLÉ Assorted Minis Carton pack",
+            "size": "1.3 kg"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-holiday-santa-chimney",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/mini-santas-chimney.png?itok=qNt8-oG7",
+            "title": "KITKAT Holiday Santa Chimney",
+            "size": "120 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-christmas-holiday-advent-calendar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/KIT-KAT-ICON-Adv-Calendar.png?itok=e6kbjYdF",
+            "title": "KITKAT Christmas Holiday Advent Calendar",
+            "size": "233 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-hockey-holidays-nhl-advent-calendar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/kitkat-nhl-advant-calendar.png?itok=BsRRt6PJ",
+            "title": "KITKAT Hockey Holidays NHL Advent Calendar",
+            "size": "233 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-holiday-cabin-kit",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/kitkat-santa-cabin-kit.png?itok=e4HjNkQo",
+            "title": "KITKAT Holiday Cabin Kit",
+            "size": "389 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kitkat-festive-friends",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/kitkat-festive-friends-150-g.jpg?itok=fzwCsy_b",
+            "title": "KITKAT Holiday Festive Friends",
+            "size": "150 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/holiday-favourites/kitkat-holiday-milk-santa-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/kitkat_holiday_milkchocolate.png?itok=gXeaOb2c",
+            "title": "KITKAT Holiday Milk Santa Pack",
+            "size": "3 x 29 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Smarties",
+        "brandUrl": "https://www.madewithnestle.ca/smarties",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2021-07/00059800000604_CF__PNG_Custom.png?itok=MRxYzr10",
+        "products": [
+          {
+            "highlight": "Limited Time",
+            "url": "https://www.madewithnestle.ca/smarties-birthday-cake",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/Smarties%20Birthday%20Cake.jpg?itok=DUh6F5J_",
+            "title": "SMARTIES Birthday Cake",
+            "size": "45g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-mini-candy-coated-milk-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/Smarties-10.jpg?itok=gwS-oER_",
+            "title": "SMARTIES Snack Size",
+            "size": "9 x 10 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-hide-me-eggs.png?itok=1EFW4GSs",
+            "title": "SMARTIES Hide Me Eggs",
+            "size": "153 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/smarties_45g_-_no_background_resized.png?itok=oscqVq2P",
+            "title": "SMARTIES",
+            "size": "45 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/nestle-smarties-carton-25",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/Smarties-25.jpg?itok=0lBhQS5I",
+            "title": "NESTLÉ SMARTIES Carton 25",
+            "size": "250 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/nestle-smarties-chocolate-easter-bunny-gift-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-bunny-lapin-eggs.png?itok=a0TkSABj",
+            "title": "SMARTIES Chocolate Easter Bunny Gift Pack",
+            "size": "148 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/nestle-assorted-hide-me-eggs.png?itok=CIb-Ks1d",
+            "title": "Assorted Hide Me Eggs",
+            "size": "300 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-203g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/smarties_cello_203g.png?itok=d0i3A7T6",
+            "title": "SMARTIES Resealable Bag",
+            "size": "203 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-multipack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/smarties_4pk.png?itok=ZI-79ICm",
+            "title": "SMARTIES Multipack",
+            "size": "4 x 45 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/hide-me-eggs-pouch_0.png?itok=ukNOseZL",
+            "title": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+            "size": "500 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-45-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/smarties-candy-coated-45.png?itok=O3Vp-cDP",
+            "title": "SMARTIES candy coated milk chocolate 45 g",
+            "size": "45 g"
+          },
+          {
+            "highlight": "Limited Time",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-06/smarties-straw-limited.png?itok=c2EfOVdy",
+            "title": "Smarties Strawberry",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-130-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/smarties-candy-coated-130.png?itok=N_8DvFii",
+            "title": "SMARTIES candy coated milk chocolate 130 g",
+            "size": "130 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-203-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/smarties-candy-coated-203.png?itok=mFAaQ5-b",
+            "title": "SMARTIES candy coated milk chocolate 203 g",
+            "size": "203 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-smarties",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK%20POPS%20Smarties.jpg?itok=TO-HJx51",
+            "title": "KITKAT Pops with SMARTIES",
+            "size": "160g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-1-kg",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/smarties-candy-coated-1kg.png?itok=TUFe9Hi2",
+            "title": "SMARTIES candy coated milk chocolate 1 kg",
+            "size": "1 kg"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-share-size-candy-coated-milk-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/smarties-candy-coated-75.png?itok=5Kc2T6uU",
+            "title": "SMARTIES Share Size candy coated milk chocolate",
+            "size": "75 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/nestl%C3%A9-smarties-multipack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/smarties-candy-coated-4-45.png?itok=wKqfQkZk",
+            "title": "SMARTIES candy coated milk chocolate Multipack, 4 x 45 g",
+            "size": "4 x 45 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-valentines-treat-size-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/00059800322379_A1C1%5B1%5D.jpg?itok=jQ1s2vkt",
+            "title": "SMARTIES Valentines Treat Size",
+            "size": "300 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-egg-hunt-kit",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/Smarties-Egg-Hunt-Kit.png?itok=KUhTiHxn",
+            "title": "SMARTIES Easter Chocolate Egg Hunt Kit",
+            "size": "140g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-45-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/smarties-easter-impulse-45g.jpg?itok=nB7RTHcN",
+            "title": "SMARTIES Easter Chocolate 45 g",
+            "size": "45 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-chicken",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-02/00059800749442_A1C1%5B1%5D.png?itok=HHlSmBzC",
+            "title": "SMARTIES Easter Chocolate Chicken",
+            "size": "85 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/smarties-easter-milk-chocolate-pack-30",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-30-ct-easter.png?itok=zvYaL-ws",
+            "title": "SMARTIES Box  - Easter Milk Chocolate Pack of 30",
+            "size": "300 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/nestle-mini-bars-pack.png?itok=tUR-mzkQ",
+            "title": "Assorted Minis Carton 25 pack",
+            "size": "237 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/kitkat-mini-bars-50-count.png?itok=ilm4ZfbD",
+            "title": "Assorted Minis Carton 50 pack",
+            "size": "485 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/00059800750196_A1C1_44327499_07.02.2024.png?itok=J02bQuLK",
+            "title": "Assorted Minis Carton 100 pack",
+            "size": "977g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-06/assorted-minis-130g.png?itok=iJkN30yT",
+            "title": "NESTLÉ Assorted Minis Carton pack",
+            "size": "1.3 kg"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-mini-ornaments-bag",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/SMARTIES-Mini-Ornaments-Bag.png?itok=ZtlCOXUK",
+            "title": "SMARTIES Mini Ornaments Bag",
+            "size": "150 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Turtles",
+        "brandUrl": "https://www.madewithnestle.ca/turtles",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-04/Turtles_2024.png?itok=Mf-Oz2OS",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-share-bag-100g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/Turtles_Classic_Bag_12x100g_.png?itok=23szUAop",
+            "title": "TURTLES Classic Recipe Share Bag",
+            "size": "100 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-holiday-gift-chocolates",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-11/00059800850315_A1C1.png?itok=vZSVVNfq",
+            "title": "TURTLES Classic Recipe Holiday Gift Chocolates",
+            "size": "350 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-classic-holiday-giftbox",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/TURTLES-Classic-Holiday-Gift-Box.png?itok=KBi6PLVS",
+            "title": "TURTLES Classic Recipe Holiday Gift Box",
+            "size": "260 g"
+          },
+          {
+            "highlight": "Renovated",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-share-bag",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/turtles-classic-recipe-160g.png?itok=8cBKdxg0",
+            "title": "TURTLES Classic Recipe Share Bag",
+            "size": "160 g"
+          },
+          {
+            "highlight": "Renovated",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-holiday-gift-box",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/turtles-classic-gift-box.png?itok=caUJ90GM",
+            "title": "TURTLES Classic Recipe Holiday Gift Box",
+            "size": "150 g"
+          },
+          {
+            "highlight": "Renovated",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-gift-box-carton",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-07/turtles-classic-gift-box-100g.png?itok=YmxTG1Fj",
+            "title": "TURTLES Classic Recipe Gift Box Carton",
+            "size": "100 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-caramel-pecans-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/turtles-caramel-pecans-chocolate.png?itok=J7PQJzaS",
+            "title": "TURTLES Caramel Pecans & Chocolate",
+            "size": "33 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-mega",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/turtles-mega.png?itok=SBqW6fpQ",
+            "title": "TURTLES Mega",
+            "size": "50 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/turtles/turtles-minis-classic",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/turtles-minis-classic-recipe.png?itok=ZIp7qeoh",
+            "title": "TURTLES Minis Classic",
+            "size": "142 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/turtles/turtles-assorted-holiday-gift-chocolates",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/aa24e468ee2b68108abce2574b929991069393e1_0.jpg?itok=DsxI3KEh",
+            "title": "TURTLES Assorted Holiday Gift Chocolates",
+            "size": "300 g"
+          }
+        ]
+      },
+      {
+        "brandName": "After Eight",
+        "brandUrl": "https://www.madewithnestle.ca/after-eight",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestle_categoty_choctreats-01-after8.png?itok=-lguFodn",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-dark-mint-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/after-eight-bar.png?itok=M8r_tUA6",
+            "title": "AFTER EIGHT Dark Mint Bar",
+            "size": "40 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-classic-mint-thins",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/mint-thins-dark-chocolate-mint-fondant.png?itok=DFWOrccv",
+            "title": "AFTER EIGHT Classic Mint Thins",
+            "size": "200 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/after_eight_300g_1.png?itok=TnKV7Y3y",
+            "title": "AFTER EIGHT",
+            "size": "300 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-strawberry-mint-thins",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/00059800745444_A1N1%2520copy.png?itok=xp8VlLzU",
+            "title": "After Eight Strawberry Mint Thins",
+            "size": "200 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/holiday-favourites/after-eight-orange",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/after-eight-orange-mint.png?itok=SlwoN1CQ",
+            "title": "AFTER EIGHT Orange Mint Thins",
+            "size": "200 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-skyline-tin",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/after_eight_400g.png?itok=NkyMy-zG",
+            "title": "AFTER EIGHT Skyline Classic Tin",
+            "size": "400 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-straws",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3557298_a8_straws_50th_90g_e_3d.png?itok=tLa6vY0z",
+            "title": "AFTER EIGHT Chocolate Mint Sticks",
+            "size": "90 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-giftbox-trio",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/AE_giftbox.jpg?itok=XG26eFEA",
+            "title": "AFTER EIGHT Mint Trio Collection Box",
+            "size": "260 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/after-eight/after-eight-advent-calendar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/AE_Advent.jpg?itok=ewzmPP28",
+            "title": "AFTER EIGHT Holiday Advent Calendar",
+            "size": "199 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Big Turk",
+        "brandUrl": "https://www.madewithnestle.ca/big-turk",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestle_categoty_choctreats-01-bigturk.png?itok=MDR8-gNU",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/crunch-pops-card.jpg?itok=NsX8DKNn",
+            "title": "NESTLÉ CRUNCH POPS",
+            "size": "140g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-crunch.png?itok=N56P1its",
+            "title": "CRUNCH chocolate bar",
+            "size": "44 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/bigturk_2pack.png?itok=4F5oXUSH",
+            "title": "BIG TURK Share Pack",
+            "size": "86 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/big-turk",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/Big%20Turk_60g_0.jpg?itok=O3tzxNX5",
+            "title": "BIG TURK Bar",
+            "size": "60 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage.png?itok=CgWI3mhs",
+            "title": "MIRAGE Bar",
+            "size": "41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage4pack.png?itok=MO5hXrAM",
+            "title": "MIRAGE Bar 4-Pack",
+            "size": "4 x 41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/059800749688.png?itok=jJUYKJls",
+            "title": "NESTLÉ BUNCHA CRUNCH",
+            "size": "160 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/059800749497.png?itok=lvER4LqE",
+            "title": "CRUNCH Chocolate Bar",
+            "size": "100 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Crunch",
+        "brandUrl": "https://www.madewithnestle.ca/crunch",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestle_categoty_choctreats-01-crunch.png?itok=RgrgeCig",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/crunch-pops-card.jpg?itok=NsX8DKNn",
+            "title": "NESTLÉ CRUNCH POPS",
+            "size": "140g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-crunch.png?itok=N56P1its",
+            "title": "CRUNCH chocolate bar",
+            "size": "44 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/bigturk_2pack.png?itok=4F5oXUSH",
+            "title": "BIG TURK Share Pack",
+            "size": "86 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/big-turk",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/Big%20Turk_60g_0.jpg?itok=O3tzxNX5",
+            "title": "BIG TURK Bar",
+            "size": "60 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage.png?itok=CgWI3mhs",
+            "title": "MIRAGE Bar",
+            "size": "41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage4pack.png?itok=MO5hXrAM",
+            "title": "MIRAGE Bar 4-Pack",
+            "size": "4 x 41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/059800749688.png?itok=jJUYKJls",
+            "title": "NESTLÉ BUNCHA CRUNCH",
+            "size": "160 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/059800749497.png?itok=lvER4LqE",
+            "title": "CRUNCH Chocolate Bar",
+            "size": "100 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Easter chocolates and treats",
+        "brandUrl": "https://www.madewithnestle.ca/easter-holiday",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/smarties_hide_me_eggs_0.png?itok=Kst1oBGr",
+        "products": [
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/kit-kat-easter-hide-me-chocolate-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-hide-me-eggs.png?itok=n3ljP5PH",
+            "title": "KIT KAT Easter Hide Me Chocolate Eggs",
+            "size": "153 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/aero-hide-me-eggs-100g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/aero-hide-me-eggs.png?itok=RBQS--jJ",
+            "title": "AERO Hide Me Eggs 100g",
+            "size": "100 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-easter-hide-me-chocolate-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-crisp-hide-me-eggs.png?itok=ZDR2kbci",
+            "title": "COFFEE CRISP Easter Hide Me Chocolate Eggs",
+            "size": "150 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/aero-easter-chocolate-lamb-5-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/aero-easter-chocolate-lamb-5-pack.jpg?itok=9CJtpBzL",
+            "title": "AERO Easter Chocolate Lamb 5-pack",
+            "size": "125 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/smarties/smarties-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-hide-me-eggs.png?itok=1EFW4GSs",
+            "title": "SMARTIES Hide Me Eggs",
+            "size": "153 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/aero/nestle-aero-novelty-bunny-94g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/nestle-aero-novelty-bunny-94g.jpg?itok=l5UM9pK2",
+            "title": "NESTLÉ AERO Novelty Bunny 94g",
+            "size": "94 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kit-kat/nestle-kitkat-chocolate-easter-bunny-gift-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-bunny-eggs.png?itok=gWSTdvPe",
+            "title": "NESTLÉ KITKAT Chocolate Easter Bunny Gift Pack",
+            "size": "139 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/nestle-smarties-chocolate-easter-bunny-gift-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-bunny-lapin-eggs.png?itok=a0TkSABj",
+            "title": "SMARTIES Chocolate Easter Bunny Gift Pack",
+            "size": "148 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/nestle-assorted-hide-me-eggs.png?itok=CIb-Ks1d",
+            "title": "Assorted Hide Me Eggs",
+            "size": "300 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/hide-me-eggs-pouch_0.png?itok=ukNOseZL",
+            "title": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+            "size": "500 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-easter-break-chocolate-and-wafer-bunnies-12-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK-EasterBunny-132g-Pouch.png?itok=cGkUREoF",
+            "title": "Kit Kat Easter Break Chocolate and Wafer Bunnies 12 Pack",
+            "size": "132 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-milk-chocolate-easter-bunny",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-02/bunnyeasterchocolate85g_1.gif?itok=gYv6P1Bu",
+            "title": "Kit Kat Milk Chocolate Easter Bunny",
+            "size": "85 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/kitkat-easter-break-bunny",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK-EasterBunny-5x29g.png?itok=6qTCGGFo",
+            "title": "KITKAT Mini Easter Chocolate Bunny 5-pack",
+            "size": "145 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-easter-break-bunny",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/KK-EasterBunny-29g-Wrapper.png?itok=yKVklrLN",
+            "title": "KITKAT Easter Break Bunny",
+            "size": "29 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-egg-hunt-kit",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/Smarties-Egg-Hunt-Kit.png?itok=KUhTiHxn",
+            "title": "SMARTIES Easter Chocolate Egg Hunt Kit",
+            "size": "140g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-45-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/smarties-easter-impulse-45g.jpg?itok=nB7RTHcN",
+            "title": "SMARTIES Easter Chocolate 45 g",
+            "size": "45 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-chicken",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-02/00059800749442_A1C1%5B1%5D.png?itok=HHlSmBzC",
+            "title": "SMARTIES Easter Chocolate Chicken",
+            "size": "85 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/smarties-easter-milk-chocolate-pack-30",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-30-ct-easter.png?itok=zvYaL-ws",
+            "title": "SMARTIES Box  - Easter Milk Chocolate Pack of 30",
+            "size": "300 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Mackintosh Toffee",
+        "brandUrl": "https://www.madewithnestle.ca/mackintosh-toffee",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestle_categoty_choctreats-01-mackintosh.png?itok=Wmu2n330",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-pieces",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/mackintosh_bites_246g.png?itok=tP_QhV_f",
+            "title": "MACKINTOSH Toffee Pieces",
+            "size": "246 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-tin",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/mackintosh_2019.png?itok=7btqgUdb",
+            "title": "MACKINTOSH Toffee Tin",
+            "size": "260 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/mackintosh_4bars.png?itok=vr4txxF4",
+            "title": "MACKINTOSH Toffee Bars",
+            "size": "4 x 45 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Mirage",
+        "brandUrl": "https://www.madewithnestle.ca/mirage",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestle_categoty_choctreats-01-mirage.png?itok=qrX-jhtv",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/crunch-pops-card.jpg?itok=NsX8DKNn",
+            "title": "NESTLÉ CRUNCH POPS",
+            "size": "140g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-crunch.png?itok=N56P1its",
+            "title": "CRUNCH chocolate bar",
+            "size": "44 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/bigturk_2pack.png?itok=4F5oXUSH",
+            "title": "BIG TURK Share Pack",
+            "size": "86 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/big-turk",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/Big%20Turk_60g_0.jpg?itok=O3tzxNX5",
+            "title": "BIG TURK Bar",
+            "size": "60 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage.png?itok=CgWI3mhs",
+            "title": "MIRAGE Bar",
+            "size": "41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_complimentary-01-mirage4pack.png?itok=MO5hXrAM",
+            "title": "MIRAGE Bar 4-Pack",
+            "size": "4 x 41 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/059800749688.png?itok=jJUYKJls",
+            "title": "NESTLÉ BUNCHA CRUNCH",
+            "size": "160 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2022-01/059800749497.png?itok=lvER4LqE",
+            "title": "CRUNCH Chocolate Bar",
+            "size": "100 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Quality Street",
+        "brandUrl": "https://www.madewithnestle.ca/quality-street",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2024-07/Quality_Street_2024.png?itok=NoKw3-oH",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/quality-street/quality-street-small-tin",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/quality_street_180_g_tin.png?itok=H-mzhcdH",
+            "title": "QUALITY STREET Small Tin",
+            "size": "180 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/quality-street/quality-street-holiday-gift-tin",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/00059800747790_A3N1_44348591_25.06.2024.png?itok=Cc4Zv-Ca",
+            "title": "QUALITY STREET Holiday Gift Tin",
+            "size": "650 g"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/quality-street/quality-street-holiday-gift-box",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/00059800751797_A1N1_44350840_25.06.2024_0.png?itok=0g4ZoWtg",
+            "title": "QUALITY STREET Holiday Gift Box",
+            "size": "220 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/quality-street/quality-street-tin",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/quality_street_725_g_tin.png?itok=f_UM7GdN",
+            "title": "QUALITY STREET Tin",
+            "size": "725 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/quality-street/quality-street-bag",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-08/00059800752077_A1N1_44365123_25.06.2024.png?itok=4gV4qm6p",
+            "title": "QUALITY STREET Share Bag",
+            "size": "160 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Rolo",
+        "brandUrl": "https://www.madewithnestle.ca/rolo",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/rolo_52g_1.png?itok=kF-htW__",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/rolo/rolo-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/rolo_52g.png?itok=MMnjn7D-",
+            "title": "ROLO",
+            "size": "52 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/rolo/rolo-mini-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3852777_rolo_mini_cello_203g_3d.png?itok=oXjwWWII",
+            "title": "ROLO Mini",
+            "size": "203 g"
+          },
+          {
+            "highlight": "Seasonal",
+            "url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/nestle-assorted-hide-me-eggs.png?itok=CIb-Ks1d",
+            "title": "Assorted Hide Me Eggs",
+            "size": "300 g"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Coffee",
+    "brands": [
+      {
+        "brandName": "Coffee Mate",
+        "brandUrl": "https://www.madewithnestle.ca/coffee-mate",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2023-12/French_vanilla_946ml_0.png?itok=Z6rpXHu8",
+        "products": [
+          {
+            "highlight": "Limited Time",
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-limited-edition-kitkat",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/COFFEE-MATE-LT-DED-header.png?itok=W3sMtPPD",
+            "title": "COFFEE MATE Limited Edition KIT KAT",
+            "size": "828 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-double-double-mate-946-ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-10/00055000981347_A1C1%20%281%29%20%281%29.png?itok=kLX6GP_M",
+            "title": "COFFEE MATE Double Double-mate",
+            "size": "946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-french-vanilla-956-ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/French_vanilla_946ml_0.png?itok=HtH-KiVa",
+            "title": "COFFEE MATE French Vanilla",
+            "size": "946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-hazelnut-946-ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/Coffee_mate_Hazelnut_946ml.png?itok=WRS5UGxk",
+            "title": "COFFEE MATE Hazelnut",
+            "size": "946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-caramel-macchiato",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-10/00055000506830_A1C1%20%281%29.png?itok=kJUDWVG9",
+            "title": "COFFEE MATE Caramel Macchiato Liquid Coffee Enhancer",
+            "size": "946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-less-sugar-french-vanilla-946-ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/Zero_sugar_bottle_946%2520ml.png?itok=79mz69cO",
+            "title": "COFFEE MATE Zero Sugar French Vanilla",
+            "size": "946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-after-eight-liquid-coffee-enhancer-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-10/After_eight_bottle_828ml.png?itok=G5biysvY",
+            "title": "COFFEE MATE AFTER EIGHT Liquid Coffee Enhancer",
+            "size": "828 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-turtles-liquid-coffee-enhancer-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-10/Turtles_bottle_828ml.png?itok=2_gcH2ll",
+            "title": "COFFEE MATE TURTLES Liquid Coffee Enhancer",
+            "size": "828 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-coffee-crisp-liquid-coffee-enhancer-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-10/Coffee_mate_bottle_828ml.png?itok=ZBUDonoH",
+            "title": "COFFEE MATE COFFEE CRISP Liquid Coffee Enhancer",
+            "size": "828 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-hazelnut-liquid-coffee-enhancer",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-mate-hazelnut.png?itok=1GfH6SDG",
+            "title": "COFFEE MATE Hazelnut Liquid Coffee Enhancer",
+            "size": "1.89 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-french-vanilla-2",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-mate-french-vanilla.png?itok=PrUYuGU0",
+            "title": "COFFEE-MATE French Vanilla",
+            "size": "1.89 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-mate/coffee-mate-double-double-mate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-mate-double.png?itok=nJF2GC5v",
+            "title": "COFFEE-MATE Double Double-mate",
+            "size": "1.89 L"
+          }
+        ]
+      },
+      {
+        "brandName": "NESCAFÉ",
+        "brandUrl": "https://www.madewithnestle.ca/nescafe",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2023-04/nescafe-brand-image.png?itok=mVBLcn9l",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-iced",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/iced.png?itok=qa2ZkjFR",
+            "title": "NESCAFE RICH Iced",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-caramel-instant-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/caramel.png?itok=tVU4OOjs",
+            "title": "NESCAFÉ Rich Caramel Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-intense-instant-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/intense_0.png?itok=6VDg7zo-",
+            "title": "NESCAFÉ Intense Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": "New size",
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-instant-coffee-95-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-05/rich-instant-tin.png?itok=HF7erAjD",
+            "title": "NESCAFÉ Rich Instant Coffee 95 g",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-colombia-premium-instant-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescafe-gold-colombia-colombie-header.png?itok=8T-ZgNSs",
+            "title": "NESCAFÉ GOLD Colombia Premium Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-premium-instant-medium-roast-ground-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescafe-gold-medium-moyen-header.png?itok=egewEBqR",
+            "title": "NESCAFÉ GOLD Premium Instant Medium Roast & Ground Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescaf%C3%A9/nescaf%C3%A9-gold-dark-roast",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescage-gold-dark-fonce-header.png?itok=mg5ZsL7C",
+            "title": "NESCAFÉ GOLD Dark Roast Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescaf%C3%A9/nescaf%C3%A9-gold-cappuccino",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/cappuccino.png?itok=WOLba_qf",
+            "title": "NESCAFÉ GOLD Cappuccino Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescaf%C3%A9/nescaf%C3%A9-gold-vanilla-latte",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-04/gold-vanilla-latte.png?itok=LydYHI_v",
+            "title": "NESCAFÉ GOLD Vanilla Latte Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-sweet-creamy-18-sachets",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/sweet-creamy-original.png?itok=kCSVQEL0",
+            "title": "NESCAFÉ Sweet & Creamy Original Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescaf%C3%A9/nescaf%C3%A9-sweet-creamy-french-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/sweet-creamy-fr-van.png?itok=pwdUbZaY",
+            "title": "NESCAFÉ Sweet & Creamy French Vanilla Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescaf%C3%A9/nescaf%C3%A9-sweet-creamy-mocha",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/sweet-creamy-mocha.png?itok=4mKgd8pH",
+            "title": "NESCAFÉ Sweet & Creamy Mocha Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-hazelnut",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/hazelnut.png?itok=4cPq_wLA",
+            "title": "NESCAFÉ Rich Hazelnut Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-tasters-choice-decaf",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/tasters_choice_decaf.png?itok=2Ad3u1-h",
+            "title": "NESCAFÉ Taster's Choice Decaf Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-french-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/fr-vanilla.png?itok=ktKYevv5",
+            "title": "NESCAFÉ Rich French Vanilla Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-colombian",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2022-02/00055000489256%5B1%5D.png?itok=abc2FV6-",
+            "title": "NESCAFÉ Rich Colombian Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-decaf",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/rich-decaf.png?itok=YSD4aARj",
+            "title": "NESCAFÉ Rich Decaf Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-encore-coffee-instant",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/3856033_nesc_encore_150g_3d.png?itok=VVKuq1Gz",
+            "title": "NESCAFÉ Encore Coffee Instant",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/simply-creamy-instant-coffee-mix",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/simply-creamy.png?itok=VMFmZRVj",
+            "title": "Simply Creamy Instant Coffee Mix",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-smooth-instant-coffee-100-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-02/nescafe-gold-smooth-veloute-header.png?itok=rbSiDAhx",
+            "title": "NESCAFÉ GOLD Smooth Instant Coffee 100 g",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-iced-latte-salted-caramel-carton",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/iced-latte.png?itok=kTgJ4qbK",
+            "title": "NESCAFÉ GOLD Iced Latte Salted Caramel Carton",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-sweet-creamy-iced-original-instant-coffee-mix",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-09/iced-coffee.png?itok=XvgVcbli",
+            "title": "NESCAFE Sweet & Creamy Iced Original Instant Coffee Mix",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-dark-roast-coffee-capsules",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2023-04/NESCAF%C3%89%20GOLD%20Dark%20Roast%20Coffee%20Capsules%20%2812%20Cups%29.png?itok=zGR1EVZP",
+            "title": "NESCAFÉ GOLD Dark Roast Coffee Capsules",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-tasters-choice-classic-instant-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2025-03/NBEV_21000996_Taster%27s_Choice_100g_3D_square.png?itok=YiRLKfoF",
+            "title": "NESCAFÉ Taster's Choice Classic Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-rich-instant-coffee-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/rich.png?itok=GH7FxKPl",
+            "title": "NESCAFÉ Rich Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-origins-colombia-coffee-capsules",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2023-04/NESCAF%C3%89%20GOLD%20ORIGINS%20Colombia%20Coffee%20Capsules%20%2812%20cups%29.png?itok=bdICdFSc",
+            "title": "NESCAFÉ GOLD ORIGINS Colombia Coffee Capsules",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-medium-roast-coffee-capsules",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2023-04/NESCAF%C3%89%20GOLD%20Medium%20Roast%20Coffee%20Capsules%20%2812%20Cups%29.png?itok=IUn7AFZO",
+            "title": "NESCAFÉ GOLD Medium Roast Coffee Capsules",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-gold-espresso-instant-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/gold-espresso-original.png?itok=Ilcn7QBS",
+            "title": "NESCAFÉ GOLD Espresso Instant Coffee",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nescafe/nescafe-decaf-gold-espresso-instant-coffee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_listing/public/2024-04/espresso-decaf.png?itok=CQ6FLop-",
+            "title": "NESCAFE Decaf GOLD Espresso Instant Coffee",
+            "size": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brands": [
+      {
+        "brandName": "Confectionery Frozen Desserts",
+        "brandUrl": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/category_confectionaryfrozendeserts.png?itok=ShEbc6Uq",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-gold-single-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kitkat%20gold.jpg?itok=NDZrX1EI",
+            "title": "KIT KAT Gold Frozen Dessert Bar",
+            "size": "80ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-gold-wafer-flavoured-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/00055000212328_A1N1_44387900_23.10.2024_0.png?itok=RQLows2G",
+            "title": "KIT KAT Gold Wafer Flavoured Frozen Dessert Bars",
+            "size": "4x80ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/coffee-crisp-bars-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/Coffee-crisp-double-crunch-ice-bars_0.png?itok=OriVDFpw",
+            "title": "Coffee Crisp Bars, Frozen Dessert",
+            "size": "5x80 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/rolo-cone-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/rolo-cones-frozen-dessert.png?itok=liSzOv0N",
+            "title": "Rolo Cone Frozen Dessert",
+            "size": "135 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kitkat-mini-bars-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/kitkat-minis-frozen-bars.png?itok=d41rufay",
+            "title": "KitKat Mini Bars Frozen Dessert",
+            "size": "6x55 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/coffee-crisp-frozen-cone",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/coffee-crisp-double-crunch-cones.png?itok=Io11n79J",
+            "title": "COFFEE CRISP Frozen Cone",
+            "size": "4 x 135 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-cones",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/kit-kat-cones-copy.png?itok=lH2k2h_Q",
+            "title": "KitKat Cones",
+            "size": "4 x 135 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/rolo-sundae-cones",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/drumstick-rolo-cones_0.png?itok=yRnwJxiV",
+            "title": "DRUMSTICK ROLO Cones",
+            "size": "4 x 135 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-frozen-bar.png?itok=ieqH0XOo",
+            "title": "KIT KAT Frozen Dessert Bars",
+            "size": "5 x 80 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-frozen-double-crunch-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-12/kit-kat-frozen-double-crunch-bars.png?itok=BL2NvZmR",
+            "title": "KIT KAT Frozen Double Crunch Bars",
+            "size": "5x80 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/christie%C2%AE-oreo%C2%AE-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/oreo-bars-ice-cream.png?itok=ftdZSqu8",
+            "title": "CHRISTIE® OREO  Bar",
+            "size": "5 x 72 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/coffee-crisp-frozen-dessert-bars_0_0.png?itok=s4sx_IRI",
+            "title": "COFFEE CRISP Frozen Dessert Bars",
+            "size": "5 x 80 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/rolo-cones-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-01/rolo-cone-frozen-desert.png?itok=eEp35BJz",
+            "title": "Rolo Cones Frozen Dessert",
+            "size": "4x135 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/rolo-1.5-l",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-05/ROLO-frozen-dessert.png?itok=oKsthPkH",
+            "title": "ROLO Frozen Dessert",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/kit-kat-1.5-l",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kitkat-ice-cream_0.png?itok=TPEIEpLa",
+            "title": "KIT KAT",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/smarties-1.5-l",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/smarties-ice-cream.png?itok=_GwkZfTd",
+            "title": "SMARTIES",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/cadbury%C2%AE-caramilk%C2%AE-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/caramilk-frozen-bar.png?itok=acuVM3kA",
+            "title": "CADBURY® CARAMILK® Frozen Dessert Bars",
+            "size": "5 x 80 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/coffee-crisp-1.5-l",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3451205_cc_1_15l_e_3d.png?itok=8jtdrwHL",
+            "title": "COFFEE CRISP",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/christie-oreo-1.5-l",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/oreo-cookie-ice-cream.png?itok=JTwFkU5G",
+            "title": "OREO",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/christie%C2%AE-oreo%C2%AE-sandwich-4-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/oreo-sandwiches.png?itok=nLu6gYvM",
+            "title": "CHRISTIE® OREO® Sandwich 4-Pack",
+            "size": "4 x 125 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/lifesavers-ice-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/life-savers-pops.png?itok=phEOOSKU",
+            "title": "LIFE SAVERS Pops",
+            "size": "8 x 65 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/lifesavers-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/4392031_lifesavers_icepops_crtn_e_3d1.png?itok=5vhtH9oW",
+            "title": "LIFESAVERS  Five Flavour Ice Pops",
+            "size": "10 x 65 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/christie-oreo-sandwich-125-ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-04/oreo-sandwich.png?itok=2KXTF_rX",
+            "title": "OREO Sandwich",
+            "size": "125 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/life-savers-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_confectionary-01-lifesaverssingle.png?itok=gNUiRUR9",
+            "title": "LIFE SAVERS Pop",
+            "size": "65 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/life-savers-sweet-meets-sour-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/4394159_lifesavers_sweetsour_e_3d1.png?itok=rFJTT3di",
+            "title": "LIFESAVERS Sweet Meets Sour Pops",
+            "size": "10 x 65 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kitkat-single-bars-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/kitkat-single-bars-frozen.png?itok=87PxCSBx",
+            "title": "KitKat Single Bars, Frozen Dessert",
+            "size": "80 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/kit-kat/kit-kat-ice-cream-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/kit-kat-frozen-bars_0.png?itok=3Yvqh5lQ",
+            "title": "KIT KAT Ice-cream Bars",
+            "size": "20x80ml"
+          }
+        ]
+      },
+      {
+        "brandName": "Häagen-Dazs",
+        "brandUrl": "https://www.madewithnestle.ca/hd-en",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-02/haagen-dazs-strawberry-brand-menu-image_1.png?itok=JonGXrrL",
+        "products": []
+      },
+      {
+        "brandName": "Drumstick",
+        "brandUrl": "https://www.madewithnestle.ca/drumstick",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-02/drumstick-van-car_ice-creame-brand-menu_4.png?itok=dtr0Ey8Q",
+        "products": []
+      },
+      {
+        "brandName": "Del Monte",
+        "brandUrl": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2024-04/del-monte-rasb-choc-tub.png?itok=yIvgf8Yp",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-strawberry-and-lemon-sorbet",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/del-monte-straw-lemon-tub.png?itok=7FWosQRv",
+            "title": "DEL MONTE Strawberry and Lemon Sorbet",
+            "size": "946 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-tropical-mango-sorbet",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/del-monte-mango-tub.png?itok=ic2xbQa1",
+            "title": "DEL MONTE Tropical Mango Sorbet",
+            "size": "946 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-raspberries-and-chocolate-gelato",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-04/del-monte-rasb-choc-tub.png?itok=KzW8C1fk",
+            "title": "DEL MONTE Raspberries and Chocolate Gelato",
+            "size": "946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-mango-frozen-fruit-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/delmonte_mango.png?itok=oY5TDkOX",
+            "title": "DEL MONTE Mango Frozen Fruit Bars",
+            "size": "10 x 50 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-mixed-berry-peach-ice-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/delmonte_berry_peach.png?itok=b09y59kT",
+            "title": "DEL MONTE Mixed Berry & Peach Frozen Dessert Bars",
+            "size": "10 x 50 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-strawberry-frozen-fruit-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/delmonte_strawberry.png?itok=OgNI4ltX",
+            "title": "DEL MONTE Strawberry Frozen Fruit Bars",
+            "size": "10 x 50 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/del-monte/del-monte-coconut-and-pineapple-frozen-dairy-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-04/DEL%20MONTE%20Coconut%20Pineapple%20Frozen%20Dairy%20Dessert%20Bars.jpg?itok=UH5-b0q3",
+            "title": "DEL MONTE Coconut Pineapple Frozen Dairy Dessert Bars",
+            "size": "10 x 50 ml"
+          }
+        ]
+      },
+      {
+        "brandName": "iÖGO",
+        "brandUrl": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-04/IOGO%20Strawberry%20Cheesecake%20Bar.png?itok=dS91a3es",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-strawberry-cheesecake-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-strawberry-cheesecake-header.png?itok=4mba4GK7",
+            "title": "iÖGO® Frozen Yogurt Bars Strawberry Cheesecake 4x80ml",
+            "size": "6 (4 x 80ml)"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-bars-raspberry-chocolate-4x80ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-raspberry-chocolate-header.png?itok=PQ5vxwfb",
+            "title": "iÖGO® Frozen Yogurt Bars Raspberry Chocolate 4x80ml",
+            "size": "6 (4 x 80ml)"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-bars-cherry-swirl-4x80ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-cherry-swirl-header.png?itok=ygxPZ-Eh",
+            "title": "iÖGO® Frozen Yogurt Bars Cherry Swirl 4x80ml",
+            "size": "6 (4 x 80ml)"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-bars-blueberry-swirl-4x80ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-bars-bluberry-swirl-header.png?itok=DiDlXzH4",
+            "title": "iÖGO® Frozen Yogurt Bars Blueberry Swirl 4x80ml",
+            "size": "6 (4 x 80ml)"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-strawberry-swirl-tub-6x946ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-strowbarry-header.png?itok=Y2BuxcLq",
+            "title": "iÖGO® Frozen Yogurt Strawberry Swirl Tub 6x946ml",
+            "size": "6 x 946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-vanilla-tub-6x946ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-vanilla-header.png?itok=9yTn2_c6",
+            "title": "iÖGO® Frozen Yogurt Vanilla Tub 6x946ml",
+            "size": "6 x 946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-cherry-swirl-6x946ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt-cherry1-header.png?itok=2Zegvgl4",
+            "title": "iÖGO® Frozen Yogurt Cherry Swirl 6x946ml",
+            "size": "6 x 946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-frozen-yogurt-blueberry-swirl-tub-6x946ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-frozen-yogurt1-header.png?itok=fAMkxDnl",
+            "title": "iÖGO® Frozen Yogurt Blueberry Swirl Tub 6x946ml",
+            "size": "6 x 946 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-nano-frozen-yogurt-pops-strawberry-banana-8x50ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-Nano-fraise-et-banane-Pops-header.png?itok=-MbmQTWP",
+            "title": "iÖGO® nanö Frozen Yogurt Pops Strawberry Banana 8x50ml",
+            "size": "8 (8 x 50ml)"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-nano-frozen-yogurt-pops-peach-8x50ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-Nano-peach-Pops-header.png?itok=seCJjXy2",
+            "title": "iÖGO® nanö Frozen Yogurt Pops Peach 8x50ml",
+            "size": "8 (8 x 50ml)"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/iogo/iogo-nano-frozen-yogurt-pops-mixed-berry-8x50ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-02/IOGO-Nano-Mix-Bry-Pops-header.png?itok=z2SRB4RM",
+            "title": "iÖGO® nanö Frozen Yogurt Pops Mixed Berry 8x50ml",
+            "size": "8 ( 8 x 50ml )"
+          }
+        ]
+      },
+      {
+        "brandName": "Parlour",
+        "brandUrl": "https://www.madewithnestle.ca/parlour",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2023-04/Parlour%20image%20for%20Brand%20icon%20copy_2.png?itok=5QhjHCdT",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/vanilla-caramel-half-dipped-frozen-dessert-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/parlour-vanilla-caramel.png?itok=w_ghdvQm",
+            "title": "Vanilla Caramel Half Dipped Frozen Dessert Bars",
+            "size": "80 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/juicy-pops-mango-peach-cherry-flavoured-ice-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/parlour-juicy-pops-mango-peach-cherry.png?itok=upUXfUWn",
+            "title": "Juicy Pops, Mango Peach & Cherry Flavoured Ice Pops",
+            "size": "65 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_covert-01-parlour-01-06.png?itok=F8c2-gWa",
+            "title": "PARLOUR Vanilla",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/french-vanilla-frozen-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2021-09/00055000893008_CF__PNG_Custom.png?itok=hf4yGYQ7",
+            "title": "French Vanilla Frozen Dessert",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-chocolate-banana",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4065424_prlr_chcbna_1_5l_3d_eng.png?itok=2Pw34LoF",
+            "title": "PARLOUR Chocolate & Banana",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-butterscotch-sundae",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4322107_prlr_bttrsctchtub_1_5l_4m_e_3d.png?itok=RA-w5_b5",
+            "title": "PARLOUR Butterscotch Sundae",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4065461_prlr_choc_1_5l_tub_eng_3d.png?itok=VSVzFZrj",
+            "title": "PARLOUR Chocolate",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-cookies-cream",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4065441_prlr_cnc_1_5l_tub_e_3d.png?itok=ZVztjeoP",
+            "title": "PARLOUR Cookies & Cream",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-heavenly-hash",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4295633_prlr_hvhash_1_5l_e.png?itok=C285O2ZN",
+            "title": "PARLOUR Heavenly Hash",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-maple-walnut",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_clipped-32.png?itok=QB-Oux4s",
+            "title": "PARLOUR Maple Walnut",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-mint-chocolate-swirl",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4065399_parlour_mintchoc_1_5l_3d_eng.png?itok=fqLm8fSO",
+            "title": "PARLOUR Mint Chocolate Swirl",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-neapolitan",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4077316_prlr_neopolitan_1_5l_tub_e_3d.png?itok=p2q4oCDk",
+            "title": "PARLOUR Neapolitan",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-minis-fudge-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_clipped-04.png?itok=aO93HPr0",
+            "title": "PARLOUR Minis Fudge Bars",
+            "size": "12 x 45 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-minis-vanilla-sandwiches",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-05/parlour-minis-sand.png?itok=tvNwSuxZ",
+            "title": "PARLOUR Minis Vanilla Sandwiches",
+            "size": "63 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-fudge-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_covert-01-parlour-01-14.png?itok=lZfPeiyV",
+            "title": "PARLOUR Fudge Bar",
+            "size": "12 x 60 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-vanilla-ice-cream-sandwich",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2023-12/parlour-vanilla-ice-cream-sandwich.jpg?itok=8f81DXjh",
+            "title": "PARLOUR Vanilla Ice Cream Sandwich",
+            "size": "6 x 100 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-dipped-bars",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_covert-01-parlour-01-20.png?itok=cv_L1X1t",
+            "title": "PARLOUR Dipped Bars",
+            "size": "12 x 60 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-assorted-cream-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/4555874_parlour_crmpops_front_055000360739_cf.png?itok=CQnrFitt",
+            "title": "PARLOUR Assorted Cream Pops",
+            "size": "12 x 60 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-super-sandwich",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/3792709_prlr_suprsndwch_4x125ml_f_3d.png?itok=hwGPUvF2",
+            "title": "PARLOUR Super Sandwich",
+            "size": "200 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-super-fudge-bar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_covert-01-parlour-01-01.png?itok=n3xB-Vnr",
+            "title": "PARLOUR Super Fudge Bar",
+            "size": "130 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-chocolate-twin-pops",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/nestle_product_clipped-33.png?itok=lCcJ4JT6",
+            "title": "PARLOUR Chocolate Twin Pops",
+            "size": "75 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-strawberry-dessert",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2021-09/00055000371322_CF__PNG_Custom.png?itok=hjpkO_GM",
+            "title": "PARLOUR STRAWBERRY DESSERT",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/parlour/parlour-vanilla-sandwich",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-04/parlour-sandwich-single.png?itok=bC4oeQbT",
+            "title": "PARLOUR Vanilla Sandwich",
+            "size": "100 ml"
+          }
+        ]
+      },
+      {
+        "brandName": "Real Dairy",
+        "brandUrl": "https://www.madewithnestle.ca/real-dairy",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2023-04/REAL%20DAIRY%2050%25%20Less%20Fat%20Natural%20Vanilla_7.png?itok=GJ_3fXUJ",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/real-dairy-maple-walnut",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/Real%20Dairy%20Maple%20Walnut.jpg?itok=AiveCP-G",
+            "title": "REAL DAIRY Maple Walnut",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/real-dairy-creme-brulee",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-03/real-dairy-creme-brule.png?itok=a-ek7tER",
+            "title": "REAL DAIRY Crème Brûlée",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/real-dairy-50-less-fat-natural-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-03/real-dairy-vanilla-less-fat.png?itok=qQWeU71p",
+            "title": "REAL DAIRY 50% Less Fat Natural Vanilla",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/real-dairy-cherry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-01/real-dairy-cherry-pack.png?itok=0TAVGPcL",
+            "title": "Black Cherry Premium Ice Cream",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/real-dairy-natural-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/real-dairy-natural-vanilla-image.png?itok=Wes84odB",
+            "title": "REAL DAIRY Natural Vanilla",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/french-vanilla-premium-ice-cream",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-02/real-dairy-french-vanilla-image.png?itok=k_6pF_Ip",
+            "title": "French Vanilla Premium Ice Cream",
+            "size": "1.5 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/real-dairy/real-dairy-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-03/real-dairy-chocolate-pack.png?itok=sVueIDGe",
+            "title": "REAL DAIRY Chocolate",
+            "size": "1.5 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Infant Nutrition",
+    "brands": [
+      {
+        "brandName": "Nido",
+        "brandUrl": "https://www.nestlebaby.ca/nestle-nido-1",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2024-04/NIDO-brand-image-new.png?itok=A3ymxVKz",
+        "products": []
+      },
+      {
+        "brandName": "Nestlé Materna",
+        "brandUrl": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-03/Gerber%20Sooth%20N%20Chew%20Strawberry%20Apple-2.png?itok=yo5v-nPx",
+        "products": []
+      }
+    ]
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brands": [
+      {
+        "brandName": "MAGGI",
+        "brandUrl": "https://www.madewithnestle.ca/maggi",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/00-easy-to-prepare-maggi-01.png?itok=jvDJEUCL",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-liquid-seasoning-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/maggi-seasoning-200_0001.png?itok=aitT4ADs",
+            "title": "MAGGI Liquid Seasoning",
+            "size": "200 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-liquid-seasoning",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/maggi-seasoning-800ml_sm.png?itok=mOyAfsiI",
+            "title": "MAGGI Liquid Seasoning",
+            "size": "800 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-hot-and-sweet-sauce",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/hotsweet_bottle.png?itok=SYKzGNEB",
+            "title": "MAGGI Hot and Sweet Sauce",
+            "size": "340 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-tamarina-sauce",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/tamarina.png?itok=mpexm3Mz",
+            "title": "MAGGI Tamarina Sauce",
+            "size": "340 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-chilli-masala-sauce",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/masala_bottle.png?itok=SnIEbgvQ",
+            "title": "MAGGI Chilli Masala Sauce",
+            "size": "340 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-2-minute-noodles-masala",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/masala_cdn_3dsm.png?itok=Np88LdNs",
+            "title": "MAGGI 2-Minute Noodles Masala",
+            "size": "70 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-chicken-flavour-bouillon",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_maggie-01-chicked.png?itok=MVRRVOnM",
+            "title": "MAGGI Chicken Flavour Bouillon",
+            "size": "24 x 21 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/maggi/maggi-vegetable-bouillon",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_maggie-01-veggie.png?itok=bijbCsEO",
+            "title": "MAGGI Vegetable Bouillon",
+            "size": "24 x 21 g"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Nutrition +",
+    "brands": [
+      {
+        "brandName": "BOOST Kids",
+        "brandUrl": "https://www.madewithnestle.ca/boost/boost-kids",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-05/boost-kids-choc.png?itok=aXSQEUCm",
+        "products": [
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-essentials-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/boost-kids-van.png?itok=gw6v4FOh",
+            "title": "BOOST Kids Essentials Vanilla",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-fruit-essentials",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/boost-kids-straw.png?itok=RTqmk_d9",
+            "title": "BOOST Kids Fruit Essentials",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-essentials-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/boost-kids-choc.png?itok=4wCsXiws",
+            "title": "BOOST Kids Essentials Chocolate",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": "New",
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-fruit-essentials-tropical",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-05/boost-kids-tropical.png?itok=dpy0ltfn",
+            "title": "BOOST Kids Fruit Essentials Tropical",
+            "size": "6 x 237 ml"
+          }
+        ]
+      },
+      {
+        "brandName": "Boost",
+        "brandUrl": "https://www.madewithnestle.ca/boost",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2023-05/BOOST_original_Chocolate_0%20copy500x500.png?itok=PEkU7XaO",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-pudding-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/boost-pudding-vanilla.png?itok=ka0vUG7O",
+            "title": "BOOST Pudding Vanilla",
+            "size": "142 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-224-calml-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-02/boost-2.24-strawberry-image.png?itok=Flt7C3xM",
+            "title": "BOOST 2.24 Cal/mL, Strawberry",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-224-calml-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-02/boost-2.24-chocolate-image.png?itok=w-8ctZU6",
+            "title": "BOOST 2.24 Cal/mL, Chocolate",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-224-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-02/boost-2.24-vanilla-image.png?itok=2w5mq0It",
+            "title": "BOOST 2.24, Vanilla",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-just-protein-227-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/protein-just-image.png?itok=gPg3gMaH",
+            "title": "BOOST Just Protein 227 g",
+            "size": "227 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-pudding-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-03/boost-pudding-chocolate.png?itok=CFsKAe8v",
+            "title": "BOOST Pudding Chocolate",
+            "size": "142 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-protein-shake-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/protein-image.png?itok=PWskwfmA",
+            "title": "BOOST Protein and Shake - Chocolate",
+            "size": "4 x 325 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-essentials-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-05/boost-kids-van.png?itok=CsgDLTlr",
+            "title": "BOOST Kids Essentials Vanilla",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-fruit-essentials",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-05/boost-kids-straw.png?itok=mgdbajNb",
+            "title": "BOOST Kids Fruit Essentials",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-essentials-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-05/boost-kids-choc.png?itok=AGIgiGKW",
+            "title": "BOOST Kids Essentials Chocolate",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-kids-fruit-essentials-tropical",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-05/boost-kids-tropical.png?itok=3JTPNN_l",
+            "title": "BOOST Kids Fruit Essentials Tropical",
+            "size": "6 x 237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-soothe-clear-nutritional-drink-strawberry-kiwi-24-pack",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-04/boost-str-kiwi.png?itok=xf9NpXfm",
+            "title": "BOOST Soothe Clear Nutritional Drink, Strawberry Kiwi, 24-Pack",
+            "size": "24-Pack"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-juice-fruit-flavoured-beverage-orange",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2025-02/boost-beverage-fruit-orange2-header.png?itok=MqL9M8Cb",
+            "title": "BOOST Juice Fruit Flavoured Beverage - Orange",
+            "size": "24 x 237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-high-protein-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/high-protein-straw.png?itok=LZ0KBQ-7",
+            "title": "BOOST High Protein - Strawberry",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-high-protein-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/high-protein-van.png?itok=tybKb5sQ",
+            "title": "BOOST High Protein - Vanilla",
+            "size": "237 mL"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-high-protein-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/high-protein-choc.png?itok=gwmhtlGt",
+            "title": "BOOST High Protein - Chocolate",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-carb-smart-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/boost-diabetic-straw-pack.png?itok=PzIVkAXc",
+            "title": "BOOST Carb Smart - Strawberry",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-diabetic-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/boost-diabetic-vanilla-pack.png?itok=ukOY31qm",
+            "title": "BOOST Carb Smart - Vanilla",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-carb-smart-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-05/boost-diabetic-choc-pack.png?itok=Hk-MDYEY",
+            "title": "BOOST Carb Smart - Chocolate",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-plus-calories-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/plus-calories-straw.png?itok=_G8ZK4ow",
+            "title": "BOOST Plus Calories - Strawberry",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-plus-calories-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/plus-calories-van.png.png?itok=LzTbyAEY",
+            "title": "BOOST Plus Calories - Vanilla",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-plus-calories-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/plus-calories-chocolate.png?itok=DM5srYMZ",
+            "title": "BOOST Plus Calories - Chocolate",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-original-chocolate-latte",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/original-chocolate-latte.png?itok=wOrB9_RJ",
+            "title": "BOOST Original - Chocolate Latte",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-original-strawberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/original-straw.png?itok=0J1QJRLN",
+            "title": "BOOST Original - Strawberry",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-original-vanilla",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/original-van.png?itok=QTkpJQQW",
+            "title": "BOOST Original - Vanilla",
+            "size": "237 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/boost/boost-original-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/medium/public/2024-03/original-choc.png?itok=hZWNcOk0",
+            "title": "BOOST Original - Chocolate",
+            "size": "237 ml"
+          }
+        ]
+      },
+      {
+        "brandName": "Nature's Bounty",
+        "brandUrl": "https://www.madewithnestle.ca/natures-bounty",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2022-09/Vitamin%20D%20300x428_0.png?itok=65-1vzIU",
+        "products": []
+      }
+    ]
+  },
+  {
+    "category": "Pet Foods",
+    "brands": [
+      {
+        "brandName": "Purina",
+        "brandUrl": "https://www.purina.ca/",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2024-10/Purina_RGB.png?itok=qrarLPfR",
+        "products": []
+      }
+    ]
+  },
+  {
+    "category": "Spring & Sparkling Water",
+    "brands": [
+      {
+        "brandName": "Essentia",
+        "brandUrl": "https://www.madewithnestle.ca/essentia-water",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2025-03/essentia-product-image_0.png?itok=Yya-uzjf",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/essentia/essentia-water-591ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/essentia-product-image_0.png?itok=qZF83s2A",
+            "title": "Essentia Water 591ml",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/essentia/essentia-water",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2025-03/essentia-product-image.png?itok=fLPaSJRY",
+            "title": "Essentia Water",
+            "size": "1 L"
+          }
+        ]
+      },
+      {
+        "brandName": "Maison Perrier",
+        "brandUrl": "https://www.maisonperrier.fr/ca/en-ca",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/2024-07/00055000208604_C1N1_44317844_03.11.2023.png?itok=OSBSBC0R",
+        "products": []
+      },
+      {
+        "brandName": "Perrier",
+        "brandUrl": "https://www.perrier.com/ca/en-ca",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/per_product_hero_bi_3.png?itok=FUJRSvxa",
+        "products": []
+      },
+      {
+        "brandName": "San Pellegrino",
+        "brandUrl": "https://www.sanpellegrino.com/ca/en-ca",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/sp_product_hero_bi_2.png?itok=xna403Qu",
+        "products": []
+      }
+    ]
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brands": [
+      {
+        "brandName": "GoodHost",
+        "brandUrl": "https://www.madewithnestle.ca/goodhost",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/goodhost_235kg_en_final.png?itok=yUzBTRJE",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/goodhost/good-host-original-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3148576_gh_orig_2kg_e_3d.png?itok=PdtTP7JQ",
+            "title": "GOOD HOST Original",
+            "size": "2.35 kg"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/goodhost/goodhost-liq-water-enhancer-12x52m",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/goodhost-ice-tea.jpg?itok=mZqkPavQ",
+            "title": "GOODHOST Liq Water Enhancer 12x52m",
+            "size": "52 ml"
+          }
+        ]
+      },
+      {
+        "brandName": "Milo",
+        "brandUrl": "https://www.madewithnestle.ca/milo",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/00-water-and-cold-beverages-milo-01_0.png?itok=TkjjMa25",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/milo/milo",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nestle_product_covert-02-misc-01-25.png?itok=PeES3x77",
+            "title": "MILO",
+            "size": "400 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/milo/milo-0",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2245178_milo_900g_3d.png?itok=LbOgxjyz",
+            "title": "MILO",
+            "size": "900 g"
+          }
+        ]
+      },
+      {
+        "brandName": "NESTEA",
+        "brandUrl": "https://www.madewithnestle.ca/nestea",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nestea_en_final.png?itok=p1CQD_cb",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nestea/nestea-lemon-iced-tea-less-sugar",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/NESTEA-Lemon_0.jpg?itok=kBkJ6_XG",
+            "title": "NESTEA Lemon Iced Tea Less Sugar",
+            "size": "715 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nestea/nestea-green-tea-honey-lemon-liquid-water-enhancer",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-10/lemon-liquid.jpg?itok=8jbnppal",
+            "title": "NESTEA Lemon Iced Tea Liquid Water Enhancer",
+            "size": "52 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nestea/nestea-original-lemon-iced-tea",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/NESTEA-2024.png?itok=VdP0VleR",
+            "title": "NESTEA Original Lemon Iced Tea",
+            "size": "2.2 kg"
+          }
+        ]
+      },
+      {
+        "brandName": "Nesfruta",
+        "brandUrl": "https://www.madewithnestle.ca/nesfruta",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/00-water-and-cold-beverages-nesfruta-01_0.png?itok=7xCugA6_",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesfruta/nesfruta-orange-peach-mango",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3556314_nesfruta_opm_52ml_3d.png?itok=DeNT8mp5",
+            "title": "NESFRUTA Orange Peach Mango",
+            "size": "52 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesfruta/nesfruta-coconut-pineapple",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3748871_nesfruta_cocopine_52ml_3d.png?itok=xL3sOCmP",
+            "title": "NESFRUTA Coconut Pineapple",
+            "size": "52 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesfruta/nesfruta-raspberry",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/3571241_nesfruta_raspberry_52ml_3d.png?itok=GOl2Lz3h",
+            "title": "NESFRUTA Raspberry",
+            "size": "52 ml"
+          }
+        ]
+      },
+      {
+        "brandName": "Carnation Hot Chocolate",
+        "brandUrl": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/carnation_rich_450g.png?itok=GKiwafw2",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-rich-creamy-hot-chocolate-canister",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6374650_Carnation_00065000134124_A1C1__.png?itok=kZbW3GOj",
+            "title": "CARNATION Rich & Creamy Hot Chocolate Canister",
+            "size": "1.7 kg"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-hot-chocolate-rich-creamy-canister",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6374665_Carnation_00065000116052_A1C1__.png?itok=EJtEB2sB",
+            "title": "Carnation Hot Chocolate Rich & Creamy Canister",
+            "size": "450g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-rich-and-creamy-hot-chocolate",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6404727_Carnation_00065000133547_A1C1__.png?itok=W2V2Lsjx",
+            "title": "CARNATION Rich and Creamy Hot Chocolate",
+            "size": "10 x 25 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/light",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6404729_Carnation_00065000368529_A1C1__.png?itok=bQNg6NgM",
+            "title": "CARNATION Hot Chocolate Light",
+            "size": "10 x 13 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-rich-and-creamy-hot-chocolate-30-capsules",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6404734_Carnation_00065000134193_A1C1__EN__.png?itok=jnsj-zOz",
+            "title": "CARNATION Rich and Creamy Hot Chocolate 30 Capsules",
+            "size": "30 x 15 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-marshmallow-canister",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6374670_Carnation_00065000116076_A1C1__.png?itok=0LPCSUDf",
+            "title": "Carnation Marshmallow Canister",
+            "size": null
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/marshmallow",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6404728_Carnation_00065000133523_A1C1__.png?itok=qNYirBNF",
+            "title": "CARNATION Marshmallow Hot Chocolate",
+            "size": "10 x 25 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/turtles",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-07/IMAGE-removebg.png?itok=JwOxA9dH",
+            "title": "​  Nestlé CARNATION Turtles Hot Chocolate",
+            "size": "400 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-variety-pack-hot-chocolate-carton",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2021-10/6404730_Carnation_00065000116113_A1C1__.png?itok=-EXcKm0B",
+            "title": "CARNATION Variety Pack Hot Chocolate Carton",
+            "size": "7 x 25 g"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-aero-smores-hot-chocolate-carton",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2023-12/carnation-aero-smores-hot-chocolate-carton.png?itok=S3E05OUE",
+            "title": "CARNATION AERO S'Mores Hot Chocolate Carton",
+            "size": "7 x 25 g"
+          }
+        ]
+      },
+      {
+        "brandName": "Nesquik",
+        "brandUrl": "https://www.madewithnestle.ca/nesquik",
+        "brandImage": "https://www.madewithnestle.ca/sites/default/files/styles/global_nav_image/public/nesquik_700ml_final.png?itok=thNIFEOs",
+        "products": [
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesquik/nesquik-chocolate-syrup-700-ml",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_700ml_1.png?itok=Lx9ifJc0",
+            "title": "NESQUIK Chocolate Syrup (700 ml)",
+            "size": "700 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesquik/nesquik-less-sugar-chocolate-syrup",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_less_sugar_0.png?itok=J9jFFH5H",
+            "title": "NESQUIK Less Sugar Chocolate Syrup",
+            "size": "510 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesquik/nesquik-chocolate-syrup-14-l",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_1.4l_1.png?itok=0KhUNhMi",
+            "title": "NESQUIK Chocolate Syrup (1.4 L)",
+            "size": "1.4 L"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesquik/nesquik-strawberry-syrup",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/2024-09/Nesquik-Strawberry-Syrop.png?itok=OCSgirMu",
+            "title": "NESQUIK Strawberry Syrup",
+            "size": "510 ml"
+          },
+          {
+            "highlight": null,
+            "url": "https://www.madewithnestle.ca/nesquik/nesquik-chocolate-powder-540-g",
+            "image": "https://www.madewithnestle.ca/sites/default/files/styles/product_thumbnail/public/nesquik_powder_540g.png?itok=BdPuzvf5",
+            "title": "NESQUIK Chocolate Powder (540 g)",
+            "size": "540 g"
+          }
+        ]
+      }
+    ]
+  }
+]
